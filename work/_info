@@ -1,0 +1,229 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1
+T_opt
+!s110 1541183564
+VZUWSkUI8n@E`E<A<W@l;40
+04 8 4 work timer_tb test 1
+=1-509a4c279d6e-5bdc984c-5e-1dd0
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.7b;67
+R0
+Ebinary2ssd
+Z1 w1541184758
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dS:/CPET232/Lab8
+Z6 8S:/CPET232/Lab8/binary2ssd.vhd
+Z7 FS:/CPET232/Lab8/binary2ssd.vhd
+l0
+L5
+V<;0:OokX]J0=:^7WDF3Ui0
+!s100 F:HV=3_?_VY[830_jNlTI3
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1542348168
+!i10b 1
+Z10 !s108 1542348167.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab8/binary2ssd.vhd|
+Z12 !s107 S:/CPET232/Lab8/binary2ssd.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Amodel
+R2
+R3
+R4
+DEx4 work 10 binary2ssd 0 22 <;0:OokX]J0=:^7WDF3Ui0
+l36
+L11
+V8Ylf`<QSiLnMB2>fFFR?J3
+!s100 2XUd6FIPY<@]=M[L?[42i3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecounter
+Z15 w1541168641
+R2
+R3
+R4
+R5
+Z16 8S:/CPET232/Lab8/counter.vhd
+Z17 FS:/CPET232/Lab8/counter.vhd
+l0
+L5
+VCj]c=2]nicN@P]d:zZK8a0
+!s100 z^nEJze50Xc>YM]gE<:[b0
+R8
+32
+R9
+!i10b 1
+Z18 !s108 1542348168.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab8/counter.vhd|
+Z20 !s107 S:/CPET232/Lab8/counter.vhd|
+!i113 1
+R13
+R14
+Amodel
+R2
+R3
+R4
+DEx4 work 7 counter 0 22 Cj]c=2]nicN@P]d:zZK8a0
+l17
+L15
+V67^7Iz`P^01[[gDzZfL7F2
+!s100 ]eag4W01_C6fiAW>]SCV^1
+R8
+32
+R9
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R13
+R14
+Edelay_unit
+Z21 w1541610045
+R2
+R3
+R4
+R5
+Z22 8S:/CPET232/Lab8/delay_unit.vhd
+Z23 FS:/CPET232/Lab8/delay_unit.vhd
+l0
+L5
+VdD1PM83J_TH]Ihmi`dK`c0
+!s100 7BO_BI]7OUH8R7z5Jjin22
+R8
+32
+R9
+!i10b 1
+R18
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab8/delay_unit.vhd|
+Z25 !s107 S:/CPET232/Lab8/delay_unit.vhd|
+!i113 1
+R13
+R14
+Amodel
+R2
+R3
+R4
+DEx4 work 10 delay_unit 0 22 dD1PM83J_TH]Ihmi`dK`c0
+l18
+L13
+V@o`N6J1<Qf][9R<VKbNP90
+!s100 ?G5LRDZGL>98Fm10U>eff3
+R8
+32
+R9
+!i10b 1
+R18
+R24
+R25
+!i113 1
+R13
+R14
+Elab8
+Z26 w1542347436
+R2
+R3
+R4
+R5
+Z27 8S:/CPET232/Lab8/Lab8.vhd
+Z28 FS:/CPET232/Lab8/Lab8.vhd
+l0
+L8
+V9RH>X5gz@28W4P2XRoY3C1
+!s100 @leW4T3@2ndXjd4G6?MOA1
+R8
+32
+Z29 !s110 1542348169
+!i10b 1
+Z30 !s108 1542348169.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab8/Lab8.vhd|
+Z32 !s107 S:/CPET232/Lab8/Lab8.vhd|
+!i113 1
+R13
+R14
+Amodel
+R2
+R3
+R4
+DEx4 work 4 lab8 0 22 9RH>X5gz@28W4P2XRoY3C1
+l47
+L18
+VMQQQ:BGfNPZI_QUFK[F:O1
+!s100 GjzFM3=fKJlQZZf1>iPd^1
+R8
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R13
+R14
+Etimer_tb
+Z33 w1541167609
+R2
+Z34 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z35 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R3
+R4
+R5
+Z36 8S:/CPET232/Lab8/timer_tb.vhd
+Z37 FS:/CPET232/Lab8/timer_tb.vhd
+l0
+L48
+VYdlfcG:WIOH_7D_XbFB432
+!s100 H`9SVa]Sz`OiZ`^<QV_aP3
+R8
+32
+R29
+!i10b 1
+R30
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab8/timer_tb.vhd|
+Z39 !s107 S:/CPET232/Lab8/timer_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R2
+R34
+R35
+R3
+R4
+Z40 DEx4 work 8 timer_tb 0 22 YdlfcG:WIOH_7D_XbFB432
+l86
+L52
+Z41 VdbFKZDlOBzN;m5hZOX?6W1
+Z42 !s100 i4R>;YJl;0KaKOHN4]>^E3
+R8
+32
+R29
+!i10b 1
+R30
+R38
+R39
+!i113 1
+R13
+R14

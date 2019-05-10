@@ -1,0 +1,48 @@
+S:/CPET232/Lab8/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none S:/CPET232/Lab8/counter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture model of counter
+
+} {} {}} S:/CPET232/Lab8/binary2ssd.vhd {1 {vcom -work work -2002 -explicit -stats=none S:/CPET232/Lab8/binary2ssd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity binary2ssd
+-- Compiling architecture model of binary2ssd
+
+} {} {}} S:/CPET232/Lab8/delay_unit.vhd {1 {vcom -work work -2002 -explicit -stats=none S:/CPET232/Lab8/delay_unit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity delay_unit
+-- Compiling architecture model of delay_unit
+
+} {} {}} S:/CPET232/Lab8/timer_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none S:/CPET232/Lab8/timer_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity timer_tb
+-- Compiling architecture test of timer_tb
+
+} {} {}} S:/CPET232/Lab8/Lab8.vhd {1 {vcom -work work -2002 -explicit -stats=none S:/CPET232/Lab8/Lab8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Lab8
+-- Compiling architecture model of Lab8
+
+} {} {}}
